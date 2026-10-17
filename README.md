@@ -1,14 +1,13 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=3000&pause=1000&color=38F2E6&center=true&vCenter=true&width=100%&lines=utkarsh%40trickybeast%3A~%24+.%2Finit_profile.sh;Systems+Programming+%7C+AI+Infrastructure+%7C+Distributed+Computing;Rising+Ocean+%E2%80%A2+Deep+Systems+%E2%80%A2+Clean+Code" alt="Header" />
+  <img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=3000&pause=1000&color=38F2E6&center=true&vCenter=true&width=920&height=50&lines=Utkarsh+Sagar+%E2%80%A2+aka+TrickyBeast;++++Systems+Programming+%7C+AI+Infrastructure+%7C+Parallel+Computing++++;Rising+Ocean+%E2%80%A2+Deep+Systems+%E2%80%A2+Clean+Code" alt="Header" />
 </div>
-
 ---
 
 ### `utkarsh@trickybeast:~$ fastfetch`
 
 ```yaml
 OS:       Ubuntu Linux x86_64
-Host:     Utkarsh Sagar (UtkarshSgr / TrickyBeast)
+Host:     Utkarsh Sagar (aka TrickyBeast)
 Role:     Sophomore @ NIT Calicut (CSE)
 Kernel:   C / C++ / Linux Internals
 Focus:    AI Infrastructure, Parallel Computing & DSA
