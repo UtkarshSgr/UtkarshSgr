@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=3000&pause=1000&color=38F2E6&center=true&vCenter=true&width=920&height=50&lines=Utkarsh+Sagar+%E2%80%A2+aka+TrickyBeast;++++Systems+Programming+%7C+AI+Infrastructure+%7C+Parallel+Computing++++;Rising+Ocean+%E2%80%A2+Deep+Systems+%E2%80%A2+Clean+Code" alt="Header" />
+  <img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=3000&pause=1000&color=38F2E6&center=true&vCenter=true&width=920&height=50&lines=Utkarsh+Sagar+aka+'TrickyBeast';++++Systems+Programming+%7C+AI+Infrastructure+%7C+Parallel+Computing++++;Rising+Ocean+%E2%80%A2+Deep+Systems+%E2%80%A2+Clean+Code" alt="Header" />
 </div>
 ---
 
